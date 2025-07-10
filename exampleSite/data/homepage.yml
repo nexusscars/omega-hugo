@@ -1,9 +1,9 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
-  image : "images/hero-image/hero-slider-01.jpg"
+  title : "Advancement is Nexusscars"
+  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering. For many destinations our delivery time is maximum 45 days."
+  image : "images/hero-image/hero-slider-01.webp"
   button:
     enable : true
     label : "WHAT WE DO"
@@ -12,11 +12,11 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
+  title : "Decarbonisation Drive"
   section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
-  video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel decarbonisation drive with Hybrid vehicles."
+  video_thumb: "images/video-thumb.webp"
+  video_id: "-CtAfO4W89w"
 
 
 #################### Vission #####################
@@ -24,39 +24,39 @@ vision:
   enable : true
   section : "VISION"
   vision_item:
-  - title : "People First"
+  - title : "Condition and Inspection"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "Full inspection reports (preferably JEVIC, JAAI, or third-party certified e.g; Reputed auctions reports), Mileage verification (tampering is a common concern) with Photos and videos is pre-requirement."
     
   - title : "Employee Culture"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content :  "Japanese work culture blends discipline and devotion—group harmony (wa) over individualism, meticulous attention to detail, and an unwavering commitment to quality and punctuality."  
     
-  - title : "The Omega Way"
+  - title : "The Nexuss Way"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of connecting with world where people come first. <br>Ismail Babar Founder"
 
 
 #################### product ####################
 product:
   enable : true
   section : "Products"
-  title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  title : "Featured Vehicles & Services"
+  content : "Discover the quality and reliability that define Nexusscars. As a trusted vehicle export agency from Japan, our mission is to deliver top-tier automobiles and services that drive your business forward. Below is one of our standout offerings to help you get started."
   product_item:
   - title : "Ecosystem"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    image : "images/product/product-01.webp"
+    content : "The Suzuki Hustler is a compact, rugged-styled Japanese kei car with SUV-inspired design, offering fuel efficiency, all-wheel drive, and urban-friendly dimensions under 3.4m long."
     project_url : "#"
     
   - title : "Objects"
-    image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    image : "images/product/product-02.webp"
+    content : "From your car order to delivery, we ensure seamless service—meticulous inspections, transparent paperwork, and global logistics—so your dream Japanese vehicle arrives flawlessly, anywhere."
     project_url : "#"
     
-  - title : "Publisher"
-    image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+  - title : "Newage R&D"
+    image : "images/product/product-03.webp"
+    content : "Japan’s automakers test EV tech in motorsport: Nissan’s e-4ORCE, Toyota’s bZ4X in Super Taikyu, EV-GP series, and Formula E. Racing drives battery, thermal, and AWD innovations."
     project_url : "#"
 
 
@@ -66,12 +66,12 @@ contact:
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
-  content : "The dawn of the digital age and the need for a significant leap forward is here. We believe that every business has the opportunity to move into this new age with the right mindset. Contact us today to begin understanding how Omega can propel your business."
+  content :  "The digital revolution is reshaping auto sales. With Nexusscars.com, your dealership can lead this shift. Partner with us to accelerate your future—reach out now."
 
   
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  title : "Join the Nexuss family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
